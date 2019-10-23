@@ -1,6 +1,8 @@
 body {
     text-align: center;
     background-image: url("assets/images/woosh.png");
+    font-family: 'Montserrat', sans-serif;
+
 }
 
 textarea{
@@ -8,6 +10,7 @@ textarea{
     color: black;
     border: 2px solid gainsboro;
     padding: 10px;
+
   }
   
 .jumbotron {
@@ -16,6 +19,8 @@ textarea{
     border: 5px solid gainsboro;
     color: dimgray;
     padding: 50px;
+    border-radius: 15px;
+
   }
 
   .title {
@@ -30,15 +35,21 @@ textarea{
     white-space: pre-wrap;
     height: 80px;
     border: 1px solid gainsboro;
+    border-radius: 15px;
+    margin: auto;
   }
   
   .hour {
     background-color: ghostwhite;
     color: black;
     border: 2px solid gainsboro;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
   }
 
   #savebtn {
       border: 2px solid gainsboro;
       background-color: ghostwhite;
+      border-top-right-radius: 15px;
+      border-bottom-right-radius: 15px;
   }
