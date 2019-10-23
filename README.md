@@ -17,3 +17,4 @@ Will be coming once I have successfully finished this assignment.
 
 ## Credits
 UA Coding Bootcamp
+[Background picture](https://www.reddit.com/r/MinimalWallpaper/comments/dj1plh/please_enjoy/)
