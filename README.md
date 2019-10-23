@@ -16,5 +16,5 @@ A simple calendar application that allows the user to save events for each hour 
 Will be coming once I have successfully finished this assignment. 
 
 ## Credits
-UA Coding Bootcamp
-[Background picture](https://www.reddit.com/r/MinimalWallpaper/comments/dj1plh/please_enjoy/)
+* UA Coding Bootcamp
+* [Background picture](https://www.reddit.com/r/MinimalWallpaper/comments/dj1plh/please_enjoy/)
