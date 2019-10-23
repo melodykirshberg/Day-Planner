@@ -27,10 +27,6 @@ textarea{
     font-family: 'Staatliches', cursive;
     font-size: 75px;
 }
-.description {
-    font-family: 'Montserrat', sans-serif;
-
-}
 .row {
     white-space: pre-wrap;
     height: 80px;

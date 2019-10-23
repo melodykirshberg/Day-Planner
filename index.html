@@ -4,19 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    
+
     <!--moment-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
-
-    <!------------------------bootstrap css-->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
     <!----------------------fonts-->
     <link href="https://fonts.googleapis.com/css?family=Montserrat|Staatliches&display=swap" rel="stylesheet">
 
+    <!------------------------bootstrap css-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
     <!----------------------css-->
     <link rel="stylesheet" href="style.css">
-
 
     <!--font awesome-->
     <script src="https://kit.fontawesome.com/4147b39723.js" crossorigin="anonymous"></script>
@@ -44,7 +43,7 @@
             <textarea class="col-10 " id="text9">
 
             </textarea>
-            <button class="col-1 far fa-save" id="savebtn">
+            <button class="col-1 far fa-save" id="savebtn" onclick="save("text9", document.getElementById('text9').value)">
             </button>
         </div>
 
@@ -56,7 +55,8 @@
             <textarea class="col-10 " id="text10">
 
             </textarea>
-            <button class="col-1 far fa-save" id="savebtn">
+            <button class="col-1 far fa-save" id="savebtn"
+                onclick="save('text10', document.getElementById('text10').value)">
             </button>
         </div>
 
@@ -68,7 +68,8 @@
             <textarea class="col-10 " id="text11">
 
             </textarea>
-            <button class="col-1 far fa-save" id="savebtn">
+            <button class="col-1 far fa-save" id="savebtn"
+                onclick="save('text11', document.getElementById('text11').value)">
             </button>
         </div>
 
