@@ -37,7 +37,7 @@ textarea{
   
   .hour {
     background-color: ghostwhite;
-    color: black;
+    color: dimgray;
     border: 2px solid gainsboro;
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
@@ -48,4 +48,6 @@ textarea{
       background-color: ghostwhite;
       border-top-right-radius: 15px;
       border-bottom-right-radius: 15px;
+      font-size: 30px;
+      color: dimgray;
   }
