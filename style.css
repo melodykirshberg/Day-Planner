@@ -1,53 +1,51 @@
 body {
-    text-align: center;
-    background-image: url("assets/images/woosh.png");
-    font-family: 'Montserrat', sans-serif;
-
+  text-align: center;
+  background-image: url("assets/images/woosh.png");
+  font-family: 'Montserrat', sans-serif;
 }
 
-textarea{
-    background: ghostwhite;
-    color: black;
-    border: 2px solid gainsboro;
-    padding: 10px;
+textarea {
+  background: ghostwhite;
+  color: black;
+  border: 2px solid gainsboro;
+  padding: 10px;
+}
 
-  }
-  
 .jumbotron {
-    text-align: center;
-    background-color: ghostwhite;
-    border: 5px solid gainsboro;
-    color: dimgray;
-    padding: 50px;
-    border-radius: 15px;
-
-  }
-
-  .title {
-    font-family: 'Staatliches', cursive;
-    font-size: 75px;
+  text-align: center;
+  background-color: ghostwhite;
+  border: 5px solid gainsboro;
+  color: dimgray;
+  padding: 50px;
+  border-radius: 15px;
 }
-.row {
-    white-space: pre-wrap;
-    height: 80px;
-    border: 1px solid gainsboro;
-    border-radius: 15px;
-    margin: auto;
-  }
-  
-  .hour {
-    background-color: ghostwhite;
-    color: dimgray;
-    border: 2px solid gainsboro;
-    border-top-left-radius: 15px;
-    border-bottom-left-radius: 15px;
-  }
 
-  #savebtn {
-      border: 2px solid gainsboro;
-      background-color: ghostwhite;
-      border-top-right-radius: 15px;
-      border-bottom-right-radius: 15px;
-      font-size: 30px;
-      color: dimgray;
-  }
+.title {
+  font-family: 'Staatliches', cursive;
+  font-size: 75px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border: 1px solid gainsboro;
+  border-radius: 15px;
+  margin: auto;
+}
+
+.hour {
+  background-color: ghostwhite;
+  color: dimgray;
+  border: 2px solid gainsboro;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.savebtn {
+  border: 2px solid gainsboro;
+  background-color: ghostwhite;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  font-size: 30px;
+  color: dimgray;
+}

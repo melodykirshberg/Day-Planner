@@ -9,16 +9,16 @@ setInterval(function () {
 
 function getit() {
 
-    for(var i = 9; i < 18; i++){
-        if(localStorage.getItem("text" + i)){
+    for (var i = 9; i < 18; i++) {
+        if (localStorage.getItem("text" + i)) {
             $("#text" + i).val(localStorage.getItem("text" + i));
         }
     }
-    
+
 }
 
 
-$("button").on("click", function(){
+$("button").on("click", function () {
     var textarea = $(this).siblings("textarea");
     var id = textarea.attr("id");
     var value = textarea.val();
