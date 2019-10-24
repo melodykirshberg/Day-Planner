@@ -7,7 +7,6 @@ setInterval(function () {
 
 
 
-
 var todos = [];
 
 function getit() {
@@ -59,7 +58,14 @@ function tstorage(key, value) {
     localStorage.setItem(key, JSON.stringify(value));
 }
 
+
 //--------------------------------retrieves todos from local storage
 function fstorage(key) {
     return JSON.parse(localStorage.getItem(key));
 }
+
+$("button").on("click", function(){
+    save("text9", document.getElementById("text9").value);
+    getit();
+
+})
