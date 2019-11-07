@@ -1,20 +1,23 @@
 # Day-Planner
 
-### Table of Contents
-* [Installation](#installation)
-* [Description](#description)
-* [Screenshots](#screenshots)
-* [Credits](#credits)
-
-## Installation
-* Get the code: ```https://verlitas.github.io/Day-Planner/```
-
 ## Description
 A simple calendar application that allows the user to save events for each hour of the day.
 
-## Screenshots
-Will be coming once I have successfully finished this assignment. 
+## Table of Contents
+* [Installation](#installation)
+* [Screenshot](#screenshot)
+* [Credits](#credits)
+
+## Installation
+In your terminal type:
+```git clone https://verlitas.github.io/Day-Planner/```
+* Open in Visual Studio to build and run.
+* For further instructions, visit https://help.github.com.
+
+## Screenshot
+![alt text](screenshot/ssdp.png "Screenshot")
+
 
 ## Credits
-* UA Coding Bootcamp
+* [UABootCamp](https://bootcamp.ce.arizona.edu/coding/)
 * [Background picture](https://www.reddit.com/r/MinimalWallpaper/comments/dj1plh/please_enjoy/)
