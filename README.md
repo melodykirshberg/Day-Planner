@@ -5,6 +5,7 @@ A simple calendar application that allows the user to save events for each hour 
 
 ## Table of Contents
 * [Installation](#installation)
+* [Technologies-Libraries](#technologies-libraries)
 * [Screenshot](#screenshot)
 * [Credits](#credits)
 
@@ -14,9 +15,11 @@ In your terminal type:
 * Open in Visual Studio to build and run.
 * For further instructions, visit https://help.github.com.
 
+## Technologies-Libraries
+CSS - HTML - JavaScript - Bootstrap
+
 ## Screenshot
 ![alt text](screenshot/ssdp.png "Screenshot")
-
 
 ## Credits
 * [UABootCamp](https://bootcamp.ce.arizona.edu/coding/)
