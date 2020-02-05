@@ -6,7 +6,7 @@ A simple calendar application that allows the user to save events for each hour 
 ## Table of Contents
 * [Installation](#installation)
 * [Technologies-Libraries](#technologies-libraries)
-* [Screenshot](#screenshot)
+* [Demo](#demo)
 * [Credits](#credits)
 
 ## Installation
@@ -18,9 +18,12 @@ In your terminal type:
 ## Technologies-Libraries
 CSS - HTML - JavaScript - Bootstrap
 
-## Screenshot
+## Demo
 ![alt text](screenshot/ssdp.png "Screenshot")
 
+Live link: https://verlitas.github.io/Day-Planner/
+
 ## Credits
-* [UABootCamp](https://bootcamp.ce.arizona.edu/coding/)
-* [Background picture](https://www.reddit.com/r/MinimalWallpaper/comments/dj1plh/please_enjoy/)
+[Melody Kirshberg](https://github.com/verlitas)  
+[UABootCamp](https://bootcamp.ce.arizona.edu/coding/)
+[Background picture](https://www.reddit.com/r/MinimalWallpaper/comments/dj1plh/please_enjoy/)
