@@ -25,5 +25,5 @@ Live link: https://verlitas.github.io/Day-Planner/
 
 ## Credits
 [Melody Kirshberg](https://github.com/verlitas)  
-[UABootCamp](https://bootcamp.ce.arizona.edu/coding/)
+[UABootCamp](https://bootcamp.ce.arizona.edu/coding/)  
 [Background picture](https://www.reddit.com/r/MinimalWallpaper/comments/dj1plh/please_enjoy/)
